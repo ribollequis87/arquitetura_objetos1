@@ -1,1 +1,0 @@
-# arquitetura_objetos1
